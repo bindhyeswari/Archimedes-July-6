@@ -4,6 +4,7 @@ body {
     font: 200 1em 'Helvetica Neue', 'Segoe UI', 'Droid Sans', 'Helvetica';
     padding: 3em;
     margin: 0;
+    color: white;
 }
 
 input, select, textarea, button, .button {

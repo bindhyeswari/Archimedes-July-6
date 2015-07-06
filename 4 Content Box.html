@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="base.css"/>
+    <style>
+
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        div.square {
+            background-color: red;
+            height: 100px;
+            width: 50%;
+
+            float: left;
+        }
+
+        div.padder {
+            padding: 1em;
+        }
+
+        div.square:nth-child(2) {
+            background-color: green;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="square">
+        <div class="padder">This is the first div</div>
+    </div>
+    <div class="square">
+        <div class="padder">This is the second div</div>
+    </div>
+</body>
+</html>

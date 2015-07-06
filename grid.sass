@@ -1,0 +1,28 @@
+
+
+div.padder
+  padding: 1em
+  border: 1px solid white
+  margin-top: 2em
+
+@media screen and (max-width: 400px)
+  // targets small devices
+  body
+    background-color: green
+  @for $i from 1 through 12
+    .col-xs-#{$i}
+      width: 100% * $i / 12
+
+@media screen and (min-width: 400px) and (max-width: 800px)
+  body
+    background-color: red
+  @for $i from 1 through 12
+    .col-md-#{$i}
+      width: 100% * $i / 12
+
+@media screen and (min-width: 800px)
+  body
+    background-color: blue
+  @for $i from 1 through 12
+    .col-lg-#{$i}
+      width: 100% * $i / 12
