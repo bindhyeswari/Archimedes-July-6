@@ -21,109 +21,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2 Media Queries.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2 Media Queries.html">
+      <file leaf-file-name="6 Selectors.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6 Selectors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.666666">
-              <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+            <state vertical-scroll-proportion="-14.916667">
+              <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grid.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grid.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3 Grid.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3 Grid.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55457747">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grid.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grid.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <element signature="e#606#1154#0" expanded="false" />
-                <element signature="e#1155#1681#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4 Content Box.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4 Content Box.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.791667">
-              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5 Centering.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5 Centering.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.3 Centering.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.3 Centering.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.1 Centering.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.1 Centering.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5416667">
-              <caret line="17" column="34" selection-start-line="16" selection-start-column="17" selection-end-line="17" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3888888">
-              <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
+            <state vertical-scroll-proportion="0.19516729">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7 Transforms.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 Transforms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3333334">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="9" selection-end-column="41" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -143,15 +70,17 @@
       <list>
         <option value="$PROJECT_DIR$/1 Media Queries.html" />
         <option value="$PROJECT_DIR$/2 Media Queries.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/grid.css" />
         <option value="$PROJECT_DIR$/3 Grid.html" />
-        <option value="$PROJECT_DIR$/base.css" />
         <option value="$PROJECT_DIR$/4 Content Box.html" />
         <option value="$PROJECT_DIR$/5 Centering.html" />
         <option value="$PROJECT_DIR$/5.1 Centering.html" />
         <option value="$PROJECT_DIR$/5.3 Centering.html" />
         <option value="$PROJECT_DIR$/grid.sass" />
+        <option value="$PROJECT_DIR$/base.css" />
+        <option value="$PROJECT_DIR$/6 Selectors.html" />
+        <option value="$PROJECT_DIR$/7 Transforms.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -206,20 +135,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Archimedes-July-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Archimedes-July-6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Archimedes-July-6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grid.sass" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -332,68 +247,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/5 Centering.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3888888">
-          <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 Media Queries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.666666">
-          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.08264463">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4 Content Box.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.791667">
+        <state vertical-scroll-proportion="0.7796143">
           <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.1 Centering.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5416667">
-          <caret line="17" column="34" selection-start-line="16" selection-start-column="17" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5 Centering.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.3 Centering.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.3875969">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="e#606#1154#0" expanded="false" />
@@ -402,20 +274,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3 Grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70247936">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grid.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
+        <state vertical-scroll-proportion="0.20661157">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 Grid.html">
+    <entry file="file://$PROJECT_DIR$/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55457747">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.19379845">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 Media Queries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2341598">
+          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.3 Centering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5785124">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.1 Centering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035812672">
+          <caret line="17" column="34" selection-start-line="16" selection-start-column="17" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 Selectors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.916667">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 Transforms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3333334">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19516729">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

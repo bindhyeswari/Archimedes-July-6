@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+
+        body {
+            perspective: 800px;
+            transform-style: preserve-3d;
+        }
+
+        div.door {
+            height: 350px;
+            width: 200px;
+            margin: 3em auto;
+            background-color: #eee;
+            border: 1px solid gray;
+            transform-origin: 100% 50%;
+
+            transform-style: preserve-3d;
+        }
+
+        div.door:hover {
+            transform: rotateY(30deg);
+            transition: transform 1000ms ease;
+        }
+
+        div.flap {
+            height: 40%;
+            width: 80%;
+            border: 1px solid gray;
+            background-color: rgba(169, 169, 169, 0.4);
+
+            margin: 1em auto;
+            display: flex;
+            font: 300 1em 'Helvetica Neue';
+            text-align: center;
+            align-items: center;
+        }
+
+        div.door:hover > div.flap {
+            transform: rotateX(30deg);
+
+            transition: transform 1s ease 1s;
+            transform-origin: 50% 0%;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="door">
+        <div class="flap">Charles Park: UI Developer</div>
+    </div>
+
+</body>
+</html>

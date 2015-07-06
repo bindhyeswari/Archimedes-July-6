@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>List of Selectors</title>
+    <link rel="stylesheet" href="base.css"/>
+
+    <style>
+
+        div {
+            padding: 1em;
+            border: 1px solid #777;
+        }
+
+        div:empty {
+            background-color: blue;
+        }
+
+        li:nth-child(4) { /* Pseudo class */
+            font-size: 2em;
+        }
+
+        div.row > div:nth-child(2) {
+            font-size: 1.5em;
+        }
+
+        div.row > p:nth-of-type(3) {
+            background-color: red;
+        }
+
+        div.spacing {
+            height: 500px;
+        }
+
+        #here:target {
+            background-color: green;
+            transition: all 1s ease;
+        }
+
+        div.mydiv::after {
+            content: 'this portion is after ... ';
+            display: inline-block;
+        }
+
+        div[data-filename*=".pdf"]::before {
+            width: 100px;
+            height: 100px;
+            display: block;
+            background-color: green;
+        }
+
+        p.lorem::selection {
+            background-color: red;
+        }
+
+        p.lorem::-moz-selection {
+            background-color: red;
+        }
+
+        p.lorem::first-line {
+            font-size: 3em;
+        }
+
+        p.lorem::first-letter {
+            font-size: 3em;
+            padding: 0.25em;
+            border: 1px solid gray;
+            background-color: #eee;
+
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <ul>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+        <li>Fourth</li>
+    </ul>
+
+    <div class="row">
+        <p>first paragraph</p>
+        <div>first div</div>
+        <p>second paragraph</p>
+        <span>first span</span>
+        <div>second div</div>
+        <p>third paragraph</p>
+        <div>asdf</div>
+        <div>adsf</div>
+        <div></div>
+    </div>
+
+    <a href="#here">Go Here</a>
+
+    <div class="spacing"></div>
+
+    <div>adsf</div>
+    <div>adsf</div>
+    v
+    <div>adsf</div>
+    <div>adsf</div>
+    <div id="here">
+        Here
+    </div>
+    <div>adsf</div>
+    <div>adsf</div>
+    <div>adsf</div>
+
+    <div class="mydiv" data-filename="file.pdf">
+        file.pdf
+    </div>
+
+    <p class="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id dui vitae odio ultricies egestas sed ac lorem. Morbi posuere in mauris in blandit. Praesent posuere tempus velit et iaculis. Sed viverra, mi ut aliquet tempus, ipsum neque dignissim erat, a condimentum magna turpis at velit. Morbi eu pretium leo, eu egestas orci. Aliquam lacinia elit quis ornare consequat. Etiam tempor velit in tortor interdum egestas. Integer pulvinar accumsan ligula, id imperdiet lorem imperdiet id. Pellentesque efficitur erat non varius eleifend. Nullam condimentum venenatis sapien ut consequat. Phasellus et nunc id tellus rhoncus consectetur vitae pharetra risus. Sed cursus placerat justo, in rhoncus neque interdum quis. Mauris vel metus id mauris pharetra vestibulum id eu magna.
+
+
+
+
+    </p>
+
+    <script>
+
+        console.log('InnerHTML of div.mydiv is ', document.querySelector('.mydiv').innerHTML);
+
+    </script>
+</body>
+</html>
