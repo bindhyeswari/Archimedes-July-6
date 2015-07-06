@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="base.css"/>
+    <style>
+
+        html, body {
+            height: 100%;
+            margin: 0;
+            transition: all 500ms ease;
+            color: white;
+        }
+
+        /*@media print {
+            body {
+                background-color: red;
+            }
+        }*/
+
+        /* Device width: 300px --> bg = green */
+
+
+
+        @media screen and (max-device-width: 400px) {
+            body {
+                background-color: green;
+            }
+        }
+
+
+        @media screen and (min-device-width: 400px) and (max-device-width: 600px) {
+            body {
+                background-color: red;
+            }
+        }
+
+
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+    <div class="col-lg-8 col-md-3 col-xs-10">First Div</div>
+</body>
+</html>
